@@ -3,8 +3,8 @@
 <nat32:ae7a440x0> <find example.wsl>
 
 <pid html="(page request) as (pop3.service)">
-<edge:ubuntu><"terminal" open>
-<terminal script>open wsl.exe>
+<edge:ubuntu><terminal><open>
+<terminal><script><open wsl.exe>
 <input=./ubuntu_server>
 <make html="https://${file states:pop1">
 <pop3.surface><.flinger @web host:is>
