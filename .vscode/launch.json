@@ -262,7 +262,8 @@
                 "set": "name", "Autobuild":
                  "uses", "github/codeql-action/autobuild@v1":
             
-               /#- run: |
+               </#->
+"run": |
                 "make", "bootstrap":
                 "make", "release":
             
