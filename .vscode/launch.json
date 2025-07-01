@@ -143,7 +143,7 @@
             "launch": "smelt",
             "youngbloodtermup": "getshadowcmd" ,"side[load.ccl]":"grubcomm_setfinnert:",
             "build"         
-:                  
+                 
 "programOutput", "Gradle for Java": ["clang-analyzer-security.insecureAPI.bcopy","Environment variables defined as a key value pair. Property ends up being the Environment Variable and the value of the property ends up being the value of the Env Variable."]  ,
 "settingscmd":"isShellCommand",
 "openccr": "Launch a node program through an npm `debug` script",
