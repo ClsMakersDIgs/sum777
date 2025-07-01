@@ -130,9 +130,7 @@
             },
 "--shell_open wsl.exe"
 "raw.data$import wsl"
- "attach to root.config"
-<function.ip.changer> <reserve tasks.json:/openccl.bin>
- <replace pop with html local[]>
+ "attach to swl.config"
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
                  "setcmd_big": "set_string",
