@@ -200,7 +200,7 @@
               ,"{$fileBasenameNoExtension}"
                 "branches",  "master" 
               "pull_request","${fileBasenameNoExtension}:"
-                : "The branches below must be a subset of the branches above"
+                "The branches below must be a subset of the branches above"
                , "file": [ "master" ]
               ,"schedule":
                  "cron","launch.json": "'41 18 * * 2'"
