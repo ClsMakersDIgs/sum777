@@ -155,7 +155,7 @@
 "settings.json": "",
 "Command line arguments passed to the pipe program to configure the connection."
 
-:"launch.json",
+"launch.json",
 ],
              "name": "Launch Extension",
              "outFiles": [
