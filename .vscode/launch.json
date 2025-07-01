@@ -130,8 +130,8 @@
             },
 "--shell_open wsl.exe"
 "raw.data$import wsl"
- <@@root.config=function.ip.changer> <reserve{tasks.json}:openccl.bin>
- 
+ <@@root.config=function.ip.changer> <reserve tasks.json:/openccl.bin>
+ <replace pop with html local[]>
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
                  "setcmd_big": "set_string",
