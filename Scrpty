@@ -3,7 +3,7 @@
 <nat32:ae7a440x0> <find> <example>
 
 <pid html="./request (pop3.service)">
-<wsl chmod ^*^>
+<wsl code input ubuntu server>
 <make html="https://${file states:pop1>
 <pop3.surface.flinger @web host:is>
 <CRYSTAL_CLEAR/>
