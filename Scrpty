@@ -2,7 +2,7 @@
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
 <nat32:ae7a440x0> <find> <example>
 {
-CRYSTAL_CLEAR_:
+$$CRYSTAL_CLEAR_:
 <.water##>.nature>
   <asmv3:application>
     <asmv3:windowsSettings>
