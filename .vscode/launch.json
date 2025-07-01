@@ -218,7 +218,7 @@
                               "!**/node_modules/**"
                               "#/definitions/cppvsdbg:launch"
                               "#/definitions/arduino:launch",
-                              "#/definitions/common/properties/debugServer" settings.jsonc:[]
+                              "#/definitions/common/properties/debugServer" "settings.jsonc:[]"
                               "!**/node_modules/**"
                               "!cwd"
                               {
