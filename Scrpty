@@ -2,9 +2,9 @@
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
 <nat32:ae7a440x0> <find> <example>
 {
-$$file :
+file :
 "CRYSTAL_CLEAR"[_]:
-<.water##>.nature>
+<.water##.nature>: find.nature.parks md.example
   <asmv3:application>
     <asmv3:windowsSettings>
       <dpiAware xmlns=
