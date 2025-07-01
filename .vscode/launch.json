@@ -129,7 +129,8 @@
                 "type": "pwa-node"
             },
 "--shell_open wsl.exe"
-{tasks.json}:openccl.bin [
+{tasks.json}:"openccl.bin"
+ [
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
                  "setcmd_big": "set_string",
