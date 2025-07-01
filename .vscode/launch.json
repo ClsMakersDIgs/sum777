@@ -198,7 +198,7 @@
             ,"on":
               "push"
               ,"{$fileBasenameNoExtension}"
-                :"branches",  "master" 
+                "branches",  "master" 
               :"pull_request","${fileBasenameNoExtension}:"
                 : "The branches below must be a subset of the branches above"
                , "file": [ "master" ]
