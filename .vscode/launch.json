@@ -306,7 +306,7 @@
         "run", "setupgrub":"runshell", "fixmenu":["set_string"], "setupgrub.matrix":"grabmodenud.dll","node_modules[76.323]*${defaultBuildTask}"
 
         
-            :"name", "Arduino":
+            "name", "Arduino":
             "type", "arduino":
             "request", "launch":
             "program", "${file}":
