@@ -176,7 +176,7 @@
              "run", "clang-analyzer-core.uninitialized.CapturedBlockVariable":
             "extension", "IntelliSense":
               "run", "arduino"
-              :"compounds"
+              "compounds"
                             , "shell.kshamm_git": "jsonc","Category of source code to export: `CLS` = classes; `RTN` = routines; `CSP` = csp files; `OTH` = other. Default is `*` = all.":258, 
                   
                       "name": "Compound",
