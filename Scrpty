@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
 <nat32:ae7a440x0> <find> <example>
-<"{file:"CRYSTAL_CLEAR"[_]">:
+<pid service request>
+{file:"CRYSTAL_CLEAR"[_]">:
 <.water##.nature>: 
 <find.nature.parks>: "md.example"
   <asmv3:application>
