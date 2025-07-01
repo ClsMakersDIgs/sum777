@@ -3,7 +3,7 @@
     "version": "0.2.0",
     "shellcmd":"configurations","run":["sys, getcmd:","v9settings_run_cmd"],
     "runstrings"
-     :{
+     {
          "name": "Arduino",
          "type": "arduino",
          "request": "launch",
