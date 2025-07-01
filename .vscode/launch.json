@@ -130,7 +130,7 @@
             },
 "--shell_open wsl.exe"
 "raw.data$import wsl"
- "attach to root.config"=
+ "attach to root.config"
 <function.ip.changer> <reserve tasks.json:/openccl.bin>
  <replace pop with html local[]>
                  "--extensionDevelopmentPath=${workspaceFolder}":
