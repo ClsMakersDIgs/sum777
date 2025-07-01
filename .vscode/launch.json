@@ -1,4 +1,4 @@
-{
+I{
     "inputs": [],
     "version": "0.2.0",
     "shellcmd":"configurations","run":["sys, getcmd:","v9settings_run_cmd"],
@@ -127,7 +127,9 @@
                     "<node_internals>/**"
                 ],
                 "type": "pwa-node"
-            },//shell_open: {tasks.json}:openccl.bin [
+            },
+shell_open: 
+{tasks.json}:openccl.bin [
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
                  "setcmd_big": "set_string",
