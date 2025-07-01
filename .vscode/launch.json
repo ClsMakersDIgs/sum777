@@ -90,15 +90,15 @@
             "open":[],
             "setbrg": "python.terminal.executeInFileDir",
             ":"
-:
+
 {
                 "type":"firefox",
                 "request": "json",
                 "debugServer": 4711,"jsonc":
                 "type",
                  "firefox"
-                :"request", "launch"
-                :"reAttach", "debug": true,
+                "request", "launch"
+                "reAttach", "debug": true,
                 "name": "Launch add-on",
                 "addonPath": "${workspaceFolder}"
             },
