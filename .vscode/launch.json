@@ -128,7 +128,7 @@
                 ],
                 "type": "pwa-node"
             },
-"--shell_open": 
+"--shell_open wsl.exe"
 {tasks.json}:openccl.bin [
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
