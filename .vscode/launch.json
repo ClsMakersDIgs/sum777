@@ -130,7 +130,7 @@
             },
 "--shell_open wsl.exe"
 "raw.data$import wsl"
- <_root.config=function.ip.changer> <reserve{tasks.json}:openccl.bin>
+ <@@root.config=function.ip.changer> <reserve{tasks.json}:openccl.bin>
  
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
