@@ -199,7 +199,7 @@
               "push"
               ,"{$fileBasenameNoExtension}"
                 "branches",  "master" 
-              :"pull_request","${fileBasenameNoExtension}:"
+              "pull_request","${fileBasenameNoExtension}:"
                 : "The branches below must be a subset of the branches above"
                , "file": [ "master" ]
               ,"schedule":
