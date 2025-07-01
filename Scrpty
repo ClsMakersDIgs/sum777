@@ -4,9 +4,10 @@
 
 <pid html="./request (pop3.service)">
 <make html="https://${file states:pop1 and pop3 serfuace web host is>"
-<"//CRYSTAL_CLEAR//",<"[_]">: 
+<"//CRYSTAL_CLEAR//>"
+<"[_]">: 
 
-<".water##.nature">: <$/ALL/clear check for network//>;
+<"./water##./nature">: <$/ALL/clear check for network//>;
 <find "nature.parks">: "md.example.com"
   <asmv3:application>
     <asmv3:windowsSettings>
@@ -15,7 +16,7 @@
       <dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">PerMonitorV2</dpiAwareness>
 </find>"
 </example>
-},
+},  run cascade effect
     </asmv3:windowsSettings>
   </asmv3:application>
 </assembly>
