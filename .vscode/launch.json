@@ -72,7 +72,7 @@
              "type": "pwa-node"
          },
          "mount_shell_cmd"
-        :    {
+         {
                 "name": "Electron Main",
                 "program": "${workspaceFolder}/main.js",
                 "request": "launch",
