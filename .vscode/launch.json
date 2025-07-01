@@ -386,7 +386,7 @@
             "args": []
         },
       "shellConfiguration2"  
-        :{
+        {
             "name": "PlatformIO Debugger",
             "request": "launch",
             "type": "platformio-debug",
@@ -394,7 +394,7 @@
             "toolchainBinDir": "/usr/local/bin"
         },
        "Disable tab completions."
-      :  {
+        {
             "executable": "launch",
             "name": "PlatformIO Debugger",
             "request": "launch",
@@ -402,7 +402,7 @@
             "toolchainBinDir": "/usr/local/bin"
         },
         "maxheadroomnodes"
-       : {
+        {
             "type": "node-terminal",
             "name": "JavaScript Debug Terminal",
             "request": "launch",
