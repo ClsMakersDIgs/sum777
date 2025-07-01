@@ -250,7 +250,7 @@
                
                  "uses", "github/codeql-action/init@v1":
                  "with",
-                   "languages": {{ matrix.language }}
+                   "languages":
                    
                    "files.eol",
 
