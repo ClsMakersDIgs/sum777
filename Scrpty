@@ -2,7 +2,7 @@
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
 <nat32:ae7a440x0> <find> <example>
 
-<pid cat:"./request (pop3.service)">
+<pid html="./request (pop3.service)">
 {file states:"CRYSTAL_CLEAR"[_]">:
 <.water##.nature>: 
 <find "nature.parks">: "md.example.com"
