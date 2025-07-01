@@ -4,7 +4,7 @@
 <pid: && ./request (pop3.service)>
 {file states:"CRYSTAL_CLEAR"[_]">:
 <.water##.nature>: 
-<find.nature.parks>: "md.example"
+<find "nature.parks">: "md.example.com"
   <asmv3:application>
     <asmv3:windowsSettings>
       <dpiAware xmlns=
