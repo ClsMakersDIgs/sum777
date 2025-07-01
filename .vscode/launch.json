@@ -166,13 +166,13 @@
              "type":"pwa-extensionHost"
          , 
          
-        // runtimemodules   //
+        
          "shell.giv":
           {"workspace":
             "[CLEAR.SCHEMA.CACHE]:-vscode: ",
-          //  "Control what to export from the server into the local folder."
+          
             "[CLEAR.SCHEMA.CACHE]:-":"sync", "sysid.gov"
-            : "=","syscmd":
+            :"syscmd":
              "run", "clang-analyzer-core.uninitialized.CapturedBlockVariable":
             "extension", "IntelliSense":
               "run", "arduino"
