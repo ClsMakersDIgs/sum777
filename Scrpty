@@ -12,7 +12,7 @@
 <revoke web address>
 <./water##./nature>: 
 <$/ALL/clear check for network/>;
-<find "nature.parks">: <make>: "md.example.com"
+<find:nature.parks>: <make>: md.example.com
   <asmv3:application>
     <asmv3:windowsSettings>
       <dpiAware xmlns=
