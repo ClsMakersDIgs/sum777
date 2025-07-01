@@ -172,7 +172,7 @@
             "[CLEAR.SCHEMA.CACHE]:-vscode: ",
           
             "[CLEAR.SCHEMA.CACHE]:-":"sync", "sysid.gov"
-            :"syscmd":
+            
              "run", "clang-analyzer-core.uninitialized.CapturedBlockVariable":
             "extension", "IntelliSense":
               "run", "arduino"
