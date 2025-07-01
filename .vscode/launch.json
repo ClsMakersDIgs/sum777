@@ -232,7 +232,7 @@
                       
               "language": "settings","launch" :"/usr/bin/gdb", "git":
             "git" ,"cwd": "set","path.python"
-           : "workspace",
+            "workspace",
             "test":"config.set" ,
             "test": "settings.json" ,"cmd_run":["version"],":":0.2,"0":755.22,
                 "compounds": [
