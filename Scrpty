@@ -6,12 +6,13 @@
 <make html="https://${file states:pop1>
 <pop3.surface.flinger @web host:is>
 <CRYSTAL_CLEAR/>
-<"[_system.crystal.plugins/c code]">: 
+<[_system.crystal.plugins/c code]>: 
 <system.wifi.html>
 <ip switch router> for dsl <mock setup>
 <revoke web address>
-<"./water##./nature">: <$/ALL/clear check for network//>;
-<find "nature.parks">: "md.example.com"
+<./water##./nature>: 
+<$/ALL/clear check for network/>;
+<find "nature.parks">: <make>: "md.example.com"
   <asmv3:application>
     <asmv3:windowsSettings>
       <dpiAware xmlns=
