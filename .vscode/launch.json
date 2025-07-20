@@ -1,9 +1,13 @@
-{
+
     "inputs": [],
     "version": "0.2.0",
     "shellcmd":"configurations","run":["sys, getcmd:","v9settings_run_cmd"],
     "runstrings"
-     {
+<<<<<<< HEAD
+
+=======
+     :{
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
          "name": "Arduino",
          "type": "arduino",
          "request": "launch",
@@ -72,7 +76,11 @@
              "type": "pwa-node"
          },
          "mount_shell_cmd"
+<<<<<<< HEAD
          {
+=======
+        :    {
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                 "name": "Electron Main",
                 "program": "${workspaceFolder}/main.js",
                 "request": "launch",
@@ -90,15 +98,24 @@
             "open":[],
             "setbrg": "python.terminal.executeInFileDir",
             ":"
+<<<<<<< HEAD
 
+=======
+:
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
 {
                 "type":"firefox",
                 "request": "json",
                 "debugServer": 4711,"jsonc":
                 "type",
                  "firefox"
+<<<<<<< HEAD
                 "request", "launch"
                 "reAttach", "debug": true,
+=======
+                :"request", "launch"
+                :"reAttach", "debug": true,
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                 "name": "Launch add-on",
                 "addonPath": "${workspaceFolder}"
             },
@@ -127,10 +144,14 @@
                     "<node_internals>/**"
                 ],
                 "type": "pwa-node"
+<<<<<<< HEAD
             },
 "--shell_open wsl.exe"
 "raw.data$import wsl"
  "attach to swl.config"
+=======
+            },//shell_open: {tasks.json}:openccl.bin [
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                  "--extensionDevelopmentPath=${workspaceFolder}":
                  "grub",
                  "setcmd_big": "set_string",
@@ -143,7 +164,11 @@
             "launch": "smelt",
             "youngbloodtermup": "getshadowcmd" ,"side[load.ccl]":"grubcomm_setfinnert:",
             "build"         
+<<<<<<< HEAD
                  
+=======
+:                  
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
 "programOutput", "Gradle for Java": ["clang-analyzer-security.insecureAPI.bcopy","Environment variables defined as a key value pair. Property ends up being the Environment Variable and the value of the property ends up being the value of the Env Variable."]  ,
 "settingscmd":"isShellCommand",
 "openccr": "Launch a node program through an npm `debug` script",
@@ -155,8 +180,13 @@
 "settings.json": "",
 "Command line arguments passed to the pipe program to configure the connection."
 
+<<<<<<< HEAD
 "launch.json",
 
+=======
+:"launch.json",
+],
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
              "name": "Launch Extension",
              "outFiles": [
                  "${workspaceFolder}/out/**/*.js"
@@ -165,10 +195,11 @@
              "request": "launch",
              "type":"pwa-extensionHost"
          , 
+<<<<<<< HEAD
          
         
          "shell.giv":
-          {"workspace":
+          "workspace":
             "[CLEAR.SCHEMA.CACHE]:-vscode: ",
           
             "[CLEAR.SCHEMA.CACHE]:-":"sync", "sysid.gov"
@@ -177,6 +208,30 @@
             "extension", "IntelliSense":
               "run", "arduino"
               "compounds"
+=======
+         // For most projects, this workflow file will not need changing; you simply need
+          //  # to commit it to your repository.
+         //   #
+         //   # You may wish to alter this file to override the set of languages analyzed,
+         //   # or to provide custom queries or build logic.
+         //   #
+         //   # ******** NOTE ********
+         //   # We have attempted to detect the languages in your repository. Please check
+         //   # the `language` matrix defined below to confirm you have the correct set of
+          //  # supported CodeQL languages.
+          //  #
+        // runtimemodules   //
+         "shell.giv":
+          {"workspace":
+            "[CLEAR.SCHEMA.CACHE]:-vscode: ",
+          //  "Control what to export from the server into the local folder."
+            "[CLEAR.SCHEMA.CACHE]:-":"sync", "sysid.gov"
+            : "=","syscmd":
+             "run", "clang-analyzer-core.uninitialized.CapturedBlockVariable":
+            "extension", "IntelliSense":
+              "run", "arduino"
+              :"compounds"
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                             , "shell.kshamm_git": "jsonc","Category of source code to export: `CLS` = classes; `RTN` = routines; `CSP` = csp files; `OTH` = other. Default is `*` = all.":258, 
                   
                       "name": "Compound",
@@ -198,9 +253,15 @@
             ,"on":
               "push"
               ,"{$fileBasenameNoExtension}"
+<<<<<<< HEAD
                 "branches",  "master" 
               "pull_request","${fileBasenameNoExtension}:"
                 "The branches below must be a subset of the branches above"
+=======
+                :"branches",  "master" 
+              :"pull_request","${fileBasenameNoExtension}:"
+                : "The branches below must be a subset of the branches above"
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                , "file": [ "master" ]
               ,"schedule":
                  "cron","launch.json": "'41 18 * * 2'"
@@ -218,7 +279,11 @@
                               "!**/node_modules/**"
                               "#/definitions/cppvsdbg:launch"
                               "#/definitions/arduino:launch",
+<<<<<<< HEAD
                               "#/definitions/common/properties/debugServer" "settings.jsonc:[]"
+=======
+                              "#/definitions/common/properties/debugServer" settings.jsonc:[]
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                               "!**/node_modules/**"
                               "!cwd"
                               {
@@ -232,7 +297,11 @@
                       
               "language": "settings","launch" :"/usr/bin/gdb", "git":
             "git" ,"cwd": "set","path.python"
+<<<<<<< HEAD
             "workspace",
+=======
+           : "workspace",
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             "test":"config.set" ,
             "test": "settings.json" ,"cmd_run":["version"],":":0.2,"0":755.22,
                 "compounds": [
@@ -241,18 +310,34 @@
                            "configurations": []
                        }
                    ],"csharp": "go","'java',":"" ,"'javascript'": "set","python' ]":
+<<<<<<< HEAD
                     
+=======
+                    //# Learn more:
+                    //# https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#changing-the-languages-that-are-analyzed
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             
                 "steps",
                 "name": "Checkout", "repository":
                   "uses", "actions/checkout@v2":
             
+<<<<<<< HEAD
                
                  "uses", "github/codeql-action/init@v1":
                  "with",
                    "languages":
                    
                    "files.eol",
+=======
+               // # Initializes the CodeQL tools for scanning.
+             //   - name: Initialize CodeQL
+                 "uses", "github/codeql-action/init@v1":
+                 "with",
+                   //languages: ${{ matrix.language }}
+                   // # If you wish to specify custom queries, you can do so here or in a config file.
+                   // # By default, queries listed here will override any specified in a config file.
+                  "//Prefix the list here with to use these queries and those in the config ":"files.eol",
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
 
                   "# queries": "./path/to/local/query, your-org/your-repo/queries@main",
 
@@ -262,8 +347,19 @@
                 "set": "name", "Autobuild":
                  "uses", "github/codeql-action/autobuild@v1":
             
+<<<<<<< HEAD
                
 "run": 
+=======
+               // # ℹ️ Command-line programs to run using the OS shell.
+              //  # 📚 https://git.io/JvXDl
+            
+               // # ✏️ If the Autobuild fails above, remove it and uncomment the following three lines
+            //    #    and modify them (or add more) to build your code if your project
+             //   #    uses a compiled language
+            
+               //  /#- run: |
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
                 "make", "bootstrap":
                 "make", "release":
             
@@ -306,7 +402,11 @@
         "run", "setupgrub":"runshell", "fixmenu":["set_string"], "setupgrub.matrix":"grabmodenud.dll","node_modules[76.323]*${defaultBuildTask}"
 
         
+<<<<<<< HEAD
             "name", "Arduino":
+=======
+            :"name", "Arduino":
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             "type", "arduino":
             "request", "launch":
             "program", "${file}":
@@ -386,7 +486,11 @@
             "args": []
         },
       "shellConfiguration2"  
-        {
+<<<<<<< HEAD
+        </pursue.IO.EL:[MOST.DRAMM.soft.post]>:? </cloudy.array.object>
+=======
+        :{
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             "name": "PlatformIO Debugger",
             "request": "launch",
             "type": "platformio-debug",
@@ -394,7 +498,11 @@
             "toolchainBinDir": "/usr/local/bin"
         },
        "Disable tab completions."
-        {
+<<<<<<< HEAD
+        </Stop.Pursue.of:TURNKEY.Pulls>::{}
+=======
+      :  {
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             "executable": "launch",
             "name": "PlatformIO Debugger",
             "request": "launch",
@@ -402,7 +510,11 @@
             "toolchainBinDir": "/usr/local/bin"
         },
         "maxheadroomnodes"
+<<<<<<< HEAD
         {
+=======
+       : {
+>>>>>>> 15cb8ca (Initialize anthillofoppies44-patch-1)
             "type": "node-terminal",
             "name": "JavaScript Debug Terminal",
             "request": "launch",
